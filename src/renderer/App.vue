@@ -8,6 +8,5 @@ window.electronAPI.sendMessage('Hello from App.vue!');
 <template>
   <div id="app">
     <Hello/>
-    <el-button>Hello</el-button>
   </div>
 </template>

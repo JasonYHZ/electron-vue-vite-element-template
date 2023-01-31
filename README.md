@@ -7,6 +7,8 @@ Building the Electron (main) process is done with [Electron Builder](https://www
 
 Using [ElementUI-Plus](https://element-plus.org/) as the UI framework
 
+autoUpdate server use [electron-release-server]https://github.com/ArekSredzki/electron-release-server
+
 ## Getting started
 
 Click the green **Use this template** button on top of the repository, and clone your own newly created repository.

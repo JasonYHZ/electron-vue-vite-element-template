@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const msg = 'Electron + Vue3 template ✌️';
+const msg = 'Electron + Vue3 template V0.1.0';
 </script>
 
 <template>
@@ -33,7 +33,8 @@ const msg = 'Electron + Vue3 template ✌️';
   margin-top: 60px;
 }
 
-h1, h2 {
+h1,
+h2 {
   font-weight: normal;
 }
 
